@@ -1,4 +1,4 @@
-text = open("C:\_Code_\Python\python challenges\PC2.txt", "r")
+text = open("PC2.txt", "r")
 text = text.read()
 
 counter = {}
