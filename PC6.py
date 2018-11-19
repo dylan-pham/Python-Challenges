@@ -11,4 +11,5 @@ with zipfile.ZipFile("PC6.zip", "r") as z:
 
         comments.append(z.getinfo(name).comment.decode())   # collecting comments
 
-print(set(comments))    # letters are "NGOYEX" ----> "OXYGEN"
+print(set(comments))    
+# letters are "NGOYEX" ----> "OXYGEN"
