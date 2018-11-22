@@ -28,8 +28,10 @@ def showImage(image):   # shows bytearrays as images
     ImageFile.LOAD_TRUNCATED_IMAGES = True
     image.show()
 
-showImage(image1)
-showImage(image2)
-showImage(image3)
-showImage(image4)
-showImage(image5)
+showImage(image1)   # dis
+showImage(image2)   # pro
+showImage(image3)   # port
+showImage(image4)   # ional
+showImage(image5)   # ity
+
+# disproportionality ---> disproportional
